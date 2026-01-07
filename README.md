@@ -15,4 +15,4 @@ The BrewVista Store wants analyze and visualize sales performance over time. So 
 - Which roast type sells more?
 - Which market contributes to the highest share of the total sales over time?
 
-- Dashboard Interaction <a href="
+- Dashboard Interaction <a href="https://github.com/aochristianah/BrewVista-Store-Data-Analysis/blob/main/BrewVista%20Sales%20Dashboard%20screenshot.png">View Dashboard</a>
