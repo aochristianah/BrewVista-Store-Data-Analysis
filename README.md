@@ -16,3 +16,15 @@ The BrewVista Store wants analyze and visualize sales performance over time. So 
 - Which market contributes to the highest share of the total sales over time?
 
 - Dashboard Interaction <a href="https://github.com/aochristianah/BrewVista-Store-Data-Analysis/blob/main/BrewVista%20Sales%20Dashboard%20screenshot.png">View Dashboard</a>
+
+## Process
+- Gathered the sales transaction data
+- Verify data for any missing values and anomalies and sort out the same
+- Made sure data is clean with respect to data type, data format and values used
+- Removed duplicate and errors and created calculated field
+- Organized data into structured tables and created relationships between: Orders, Customers and Product.
+- Merged all pivot tables into one dashboard and apply slicer for interactivity
+
+  ## Dashboard
+  <img width="1826" height="798" alt="BrewVista Sales Dashboard screenshot" src="https://github.com/user-attachments/assets/43d67f8d-cc10-428b-8394-83aa772b74fb" />
+
