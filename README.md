@@ -40,4 +40,8 @@ The BrewVista Store wants to analyze and visualize sales performance over time. 
 - Customers with loyalty cards show higher purchase frequency and greater total spend. This shows that the loyalty program is a valuable sales driver
 
 ## Recommendations
-- 
+- Focus marketing efforts on top-performing markets, especially United States, to maximize returns
+- Expand loyalty programs, as loyalty cards holders show higher spending behaviour
+- Prioritize high-demand coffee types and roast types to optmize inventory management
+- Offer targeted promotions to top customers to improve retention and lifetime value
+- Adjust production and distribution planning based on seasonal sales pattern
